@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "xtZNNgO54cUwudeKvlWcDxIY4W+OIaEKcbMsXJ5rqEBF5wb5GTaPUDQynYCgEG784oeY4fJ7TJ50w98BhkB1kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2\\STIG_Manager_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.3.0\\microsoft.codeanalysis.fxcopanalyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.3.0\\microsoft.codeanalysis.versioncheckanalyzer.3.3.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\microsoft.codequality.analyzers\\3.3.0\\microsoft.codequality.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\microsoft.netcore.analyzers\\3.3.0\\microsoft.netcore.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\microsoft.netframework.analyzers\\3.3.0\\microsoft.netframework.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\microsoft.powershell.5.1.referenceassemblies\\1.0.0\\microsoft.powershell.5.1.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
+    "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\system.management.automation.dll\\10.0.10586\\system.management.automation.dll.10.0.10586.nupkg.sha512"
+  ],
+  "logs": []
+}

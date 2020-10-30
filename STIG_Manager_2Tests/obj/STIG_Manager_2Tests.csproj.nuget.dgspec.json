@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2Tests\\STIG_Manager_2Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2Tests\\STIG_Manager_2Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2Tests\\STIG_Manager_2Tests.csproj",
+        "projectName": "STIG_Manager_2Tests",
+        "projectPath": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2Tests\\STIG_Manager_2Tests.csproj",
+        "packagesPath": "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.hansen.AMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2\\STIG_Manager_2.csproj": {
+                "projectPath": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2\\STIG_Manager_2.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.VersionCheckAnalyzer": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2\\STIG_Manager_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2\\STIG_Manager_2.csproj",
+        "projectName": "STIG_Manager_2",
+        "projectPath": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2\\STIG_Manager_2.csproj",
+        "packagesPath": "C:\\Users\\eric.hansen.AMED\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eric.hansen.AMED\\Desktop\\STIG_Manager_2\\STIG_Manager_2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eric.hansen.AMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.PowerShell.5.1.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.Compression.ZipFile": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Management.Automation.dll": {
+              "target": "Package",
+              "version": "[10.0.10586, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

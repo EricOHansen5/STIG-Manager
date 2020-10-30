@@ -1,0 +1,107 @@
+﻿<Window x:Class="STIG_Manager_2.View.RunRemoteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:STIG_Manager_2.View"
+        mc:Ignorable="d"
+        Title="Run Remote" Height="450" Width="800" Name="Run_Remote_Window" Closing="Run_Remote_Window_Closing">
+    <Grid x:Name="MainGrid" SizeChanged="MainGrid_SizeChanged">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Content="Computers:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Status:" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="65,0,0,0"/>
+        <Label Name="lblCountDown" Content="{Binding CountDown}" ContentStringFormat="{}{0} Seconds" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="175,0,0,0"/>
+        <Label Name="lblCheckOnline" Grid.Column="0" Grid.Row="0" Content="Checking Online Statuses" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,100,0" Visibility="{Binding IsChecking}"/>
+        <ProgressBar Name="pbCheckOnline" Height="3" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,22,106,0" Visibility="{Binding Visibility, ElementName=lblCheckOnline}" Width="132" IsIndeterminate="True"/>
+        <Button x:Name="btnCheckNow" Padding="10,1" Content="Check Now" Margin="10,5,10,0" HorizontalAlignment="Right" VerticalAlignment="Top" Click="btnCheckNow_Click"/>
+        <DataGrid x:Name="dgComputers" Grid.Row="0" Grid.Column="0" Margin="10,27,10,10" 
+                  ItemsSource="{Binding Computers, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, NotifyOnTargetUpdated=True}" AutoGenerateColumns="False"
+                  CanUserDeleteRows="True" CanUserAddRows="True" CanUserResizeRows="False" 
+                  CanUserResizeColumns="True" AlternatingRowBackground="LightGray" AlternationCount="2"
+                  SelectionMode="Single" CellEditEnding="dgComputers_CellEditEnding">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn Width="1.2*" Binding="{Binding IsSelected, NotifyOnSourceUpdated=True, NotifyOnTargetUpdated=True, NotifyOnValidationError=True, ValidatesOnNotifyDataErrors=True}" CanUserSort="False">
+                    <DataGridCheckBoxColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <CheckBox Click="Click_AllSelected" Padding="4,-1,10,0" Margin="0" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Select All</CheckBox>
+                        </DataTemplate>
+                    </DataGridCheckBoxColumn.HeaderTemplate>
+                </DataGridCheckBoxColumn>
+
+                <DataGridTextColumn Header="Name" Width="3*" Binding="{Binding Name, Mode=TwoWay, NotifyOnTargetUpdated=True, NotifyOnSourceUpdated=True}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="Margin" Value="10,1"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                
+                <DataGridTextColumn Header="Online" Width="1*" Binding="{Binding Online}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="Margin" Value="10,1"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Online}" Value="True">
+                                    <Setter Property="Foreground" Value="Green"/>
+                                    <Setter Property="Text" Value="Online"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Online}" Value="False">
+                                    <Setter Property="Foreground" Value="Red"/>
+                                    <Setter Property="Text" Value="Offline"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn Header="Running" Width="2*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DockPanel>
+                                <TextBlock Margin="10,3" Text="{Binding FinishText}"/>
+                                <ProgressBar Margin="10,3" IsIndeterminate="False" Value="{Binding Completed}" Height="5"/>
+                            </DockPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+            <DataGrid.CellStyle>
+                <Style TargetType="{x:Type DataGridCell}">
+                    <Setter Property="Height" Value="26"/>
+                </Style>
+            </DataGrid.CellStyle>
+        </DataGrid>
+        <GridSplitter Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Stretch" Background="LightGray" ShowsPreview="True" Width="5"/>
+        <StackPanel Grid.Column="2" Grid.Row="0">
+            <Label Content="Operations:"/>
+            <Button x:Name="btnRun_Selected" Content="Run Selected" Margin="10,10,10,0" Click="Click_Run_Selected"/>
+            <ProgressBar x:Name="progressBar_Run" IsIndeterminate="True" Margin="10,0,10,5" Height="5" Visibility="Hidden"/>
+            <Button x:Name="btnCancel_Run" Content="Cancel Run" Margin="10,10,10,10" IsEnabled="False" Click="Click_Cancel_Run"/>
+
+            <Button x:Name="btnSave_Computers" Padding="10,1" Margin="10" Content="Save" Click="Click_Save">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding Saved}" Value="True">
+                                <Setter Property="Background" Value="LightGreen"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding Saved}" Value="False">
+                                <Setter Property="Background" Value="#FFDDDDDD"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button x:Name="btnClose" Padding="10,1" Margin="10" Content="Close" Click="Click_Close"/>
+            <Button x:Name="btnDelete" Padding="10,1" Margin="10" Content="Delete" Click="Click_Delete" Foreground="Red"/>
+        </StackPanel> 
+    </Grid>
+</Window>

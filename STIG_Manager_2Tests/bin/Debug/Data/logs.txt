@@ -1,0 +1,620 @@
+3/10/2020 12:48:13 PM :   GENERAL    : Test Log
+3/10/2020 12:48:13 PM : --WARNING--  : Test Log Warning
+3/10/2020 12:48:13 PM : !  ERROR   ! : Test Log Error
+3/10/2020 12:48:13 PM : !!CRITICAL!! : Test Log Critical
+3/10/2020 1:13:34 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:13:34 PM :   GENERAL    : Update Vuln V-6000
+3/10/2020 1:33:13 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:33:27 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:33:27 PM :   GENERAL    : Update Vuln V-6000
+3/10/2020 1:42:24 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:45:18 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:45:18 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:47:00 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:47:10 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:49:27 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:51:05 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:52:34 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:52:34 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:55:21 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:56:50 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:59:12 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:59:12 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:59:12 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 1:59:12 PM :   GENERAL    : Update Vuln V-6000
+3/10/2020 2:02:14 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 2:03:58 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 2:05:21 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 2:05:21 PM :   GENERAL    : Add Vuln V-6000
+3/10/2020 4:05:38 PM :   GENERAL    : Run
+3/10/2020 4:05:40 PM :   GENERAL    : GetResult
+3/10/2020 4:06:35 PM :   GENERAL    : Run
+3/10/2020 4:06:35 PM :   GENERAL    : GetResult
+3/10/2020 4:08:25 PM :   GENERAL    : Run
+3/10/2020 4:08:25 PM :   GENERAL    : GetResult
+3/10/2020 4:09:01 PM :   GENERAL    : Run
+3/10/2020 4:09:01 PM :   GENERAL    : GetResult
+3/11/2020 8:09:41 AM :   GENERAL    : Run
+3/11/2020 8:09:43 AM :   GENERAL    : GetResult
+3/11/2020 8:15:19 AM :   GENERAL    : Run
+3/11/2020 8:23:37 AM :   GENERAL    : Parse_Header_Functions
+3/11/2020 8:23:44 AM :   GENERAL    : Run
+3/11/2020 8:27:41 AM :   GENERAL    : Parse_Header_Functions
+3/11/2020 8:27:46 AM :   GENERAL    : Run
+3/11/2020 8:29:22 AM :   GENERAL    : Parse_Header_Functions
+3/11/2020 8:29:22 AM :   GENERAL    : Run
+3/11/2020 8:34:52 AM :   GENERAL    : Parse_Header_Functions
+3/11/2020 8:34:52 AM :   GENERAL    : Run
+3/11/2020 8:56:22 AM :   GENERAL    : Parse_Header_Functions
+3/11/2020 8:56:22 AM :   GENERAL    : Run
+3/11/2020 8:57:02 AM :   GENERAL    : Run
+3/11/2020 9:17:35 AM :   GENERAL    : TestConnection
+3/11/2020 9:20:23 AM :   GENERAL    : TestConnection
+3/11/2020 9:20:43 AM :   GENERAL    : TestConnection
+3/11/2020 9:24:56 AM :   GENERAL    : TestConnection
+3/11/2020 9:33:18 AM :   GENERAL    : TestConnection
+3/11/2020 12:59:31 PM :   GENERAL    : Create_DB_File()
+3/11/2020 12:59:31 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/11/2020 12:59:31 PM :   GENERAL    : DB File Created.
+3/11/2020 12:59:52 PM :   GENERAL    : Add Vuln V-6000
+3/11/2020 12:59:59 PM :   GENERAL    : Load_DB_File()
+3/11/2020 12:59:59 PM :   GENERAL    : DB File Exist.
+3/11/2020 12:59:59 PM :   GENERAL    : DB File Loaded Successfully.
+3/11/2020 1:00:31 PM :   GENERAL    : Load_DB_File()
+3/11/2020 1:00:36 PM :   GENERAL    : DB File Exist.
+3/11/2020 1:00:51 PM :   GENERAL    : DB File Loaded Successfully.
+3/11/2020 1:01:34 PM :   GENERAL    : Parse_Script
+3/11/2020 1:02:42 PM :   GENERAL    : Update_DB_File()
+3/11/2020 1:02:42 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/11/2020 1:02:42 PM :   GENERAL    : Copy_DB_File()
+3/11/2020 1:02:42 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/11/2020 1:02:42 PM :   GENERAL    : Time To Create Backup or Forced.
+3/11/2020 1:02:42 PM :   GENERAL    : DB File Updated Successfully.
+3/11/2020 1:02:42 PM :   GENERAL    : Load_DB_File()
+3/11/2020 1:02:46 PM :   GENERAL    : DB File Exist.
+3/11/2020 1:02:46 PM :   GENERAL    : DB File Loaded Successfully.
+3/11/2020 4:11:30 PM :   GENERAL    : Restore_HeaderFunctions
+3/11/2020 4:11:30 PM :   GENERAL    : Last HeaderFunctions File Doesn't Exist.
+3/11/2020 4:14:59 PM :   GENERAL    : Load_DB_File()
+3/11/2020 4:14:59 PM :   GENERAL    : DB File Exist.
+3/11/2020 4:14:59 PM :   GENERAL    : DB File Loaded Successfully.
+3/11/2020 4:14:59 PM :   GENERAL    : Validate_DB()
+3/11/2020 4:14:59 PM :   GENERAL    : Save_HeaderFunctions()
+3/11/2020 4:14:59 PM :   GENERAL    : HeaderFunctions Saved Successfully.
+3/11/2020 4:14:59 PM :   GENERAL    : Restore_HeaderFunctions
+3/11/2020 4:14:59 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/11/2020 4:18:30 PM :   GENERAL    : Parse_Header_Functions
+3/11/2020 4:18:30 PM :   GENERAL    : Save_HeaderFunctions()
+3/11/2020 4:18:30 PM :   GENERAL    : HeaderFunctions Saved Successfully.
+3/11/2020 4:18:59 PM :   GENERAL    : Parse_Header_Functions
+3/11/2020 4:18:59 PM :   GENERAL    : Save_HeaderFunctions()
+3/11/2020 4:19:00 PM :   GENERAL    : HeaderFunctions Saved Successfully.
+3/11/2020 4:22:22 PM :   GENERAL    : Restore_HeaderFunctions
+3/11/2020 4:22:22 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/11/2020 9:33:02 PM :   GENERAL    : ReadXccdfFile
+3/11/2020 9:33:02 PM :   GENERAL    : IsFileInUse
+3/11/2020 9:33:02 PM :   GENERAL    : GetFilenameFromZIP
+3/11/2020 9:33:02 PM :   GENERAL    : Load_Checklist
+3/11/2020 9:33:03 PM :   GENERAL    : Copy_Checklist
+3/11/2020 9:33:03 PM :   GENERAL    : Load_Checklist
+3/11/2020 9:33:03 PM :   GENERAL    : Update_Checklist
+3/11/2020 9:33:03 PM :   GENERAL    : Load_Checklist
+3/11/2020 9:33:03 PM :   GENERAL    : Add Vuln V-6000
+3/11/2020 9:33:03 PM :   GENERAL    : Create_DB_File()
+3/11/2020 9:33:03 PM :   GENERAL    : DB File Already Exists.
+3/11/2020 9:33:03 PM :   GENERAL    : Copy_DB_File()
+3/11/2020 9:33:03 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/11/2020 9:33:03 PM :   GENERAL    : Time To Create Backup or Forced.
+3/11/2020 9:33:03 PM :   GENERAL    : Copy_DB_File()
+3/11/2020 9:33:03 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/11/2020 9:33:03 PM :   GENERAL    : Not Time To Backup.
+3/11/2020 9:33:03 PM :   GENERAL    : Copy_DB_File()
+3/11/2020 9:33:03 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/11/2020 9:33:03 PM :   GENERAL    : Time To Create Backup or Forced.
+3/11/2020 9:33:03 PM :   GENERAL    : Create_DB_File()
+3/11/2020 9:33:03 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/11/2020 9:33:03 PM :   GENERAL    : DB File Created.
+3/11/2020 9:33:04 PM :   GENERAL    : Copy_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/11/2020 9:33:04 PM :   GENERAL    : Time To Create Backup or Forced.
+3/11/2020 9:33:04 PM :   GENERAL    : Create_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/11/2020 9:33:04 PM :   GENERAL    : Backup DB File Exist, User Opted to Restore.
+3/11/2020 9:33:04 PM :   GENERAL    : Create_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Created.
+3/11/2020 9:33:04 PM :   GENERAL    : Restore_HeaderFunctions
+3/11/2020 9:33:04 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/11/2020 9:33:04 PM :   GENERAL    : Create_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Created.
+3/11/2020 9:33:04 PM :   GENERAL    : Add Vuln V-6000
+3/11/2020 9:33:04 PM :   GENERAL    : Load_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Exist.
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Loaded Successfully.
+3/11/2020 9:33:04 PM :   GENERAL    : Validate_DB()
+3/11/2020 9:33:04 PM :   GENERAL    : Vuln_DB Count Equals 0
+3/11/2020 9:33:04 PM :   GENERAL    : Parse_Script
+3/11/2020 9:33:04 PM :   GENERAL    : Update_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/11/2020 9:33:04 PM :   GENERAL    : Copy_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/11/2020 9:33:04 PM :   GENERAL    : Time To Create Backup or Forced.
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Updated Successfully.
+3/11/2020 9:33:04 PM :   GENERAL    : Load_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Exist.
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Loaded Successfully.
+3/11/2020 9:33:04 PM :   GENERAL    : Validate_DB()
+3/11/2020 9:33:04 PM :   GENERAL    : Restore_HeaderFunctions
+3/11/2020 9:33:04 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/11/2020 9:33:04 PM :   GENERAL    : Update_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/11/2020 9:33:04 PM :   GENERAL    : Copy_DB_File()
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/11/2020 9:33:04 PM :   GENERAL    : Not Time To Backup.
+3/11/2020 9:33:04 PM :   GENERAL    : DB File Updated Successfully.
+3/11/2020 9:33:04 PM :   GENERAL    : Add Vuln V-6000
+3/11/2020 9:33:04 PM :   GENERAL    : Update Vuln V-6000
+3/11/2020 9:33:04 PM :   GENERAL    : GetNumberOfInstances
+3/11/2020 9:33:04 PM :   GENERAL    : GetOtherInstances
+3/11/2020 9:33:04 PM :   GENERAL    : RemoveInstance
+3/11/2020 9:33:04 PM :   GENERAL    : GetOtherInstances
+3/11/2020 9:33:09 PM :   GENERAL    : UpdateNumberOfInstances
+3/11/2020 9:33:09 PM :   GENERAL    : Parse_AutoComplete_Cmdlets
+3/11/2020 9:33:09 PM :   GENERAL    : Parse_Header_Functions
+3/11/2020 9:33:09 PM :   GENERAL    : Parse_Script
+3/11/2020 9:33:09 PM :   GENERAL    : Parse_Header_Functions
+3/11/2020 9:33:10 PM :   GENERAL    : RunRemoteScript
+3/11/2020 9:33:11 PM : !  ERROR   ! : PS-REMOTE-ERROR: Connecting to remote server riemnb5568x failed with the following error message : Access is denied. For more information, see the about_Remote_Troubleshooting Help topic.
+3/11/2020 9:33:11 PM :   GENERAL    : Parse_Header_Functions
+3/11/2020 9:33:11 PM :   GENERAL    : Run
+3/11/2020 9:33:15 PM :   GENERAL    : TestConnection
+3/11/2020 9:33:53 PM :   GENERAL    : Load_Checklist
+3/11/2020 9:37:30 PM :   GENERAL    : Load_Checklist
+3/11/2020 9:38:37 PM :   GENERAL    : UpdateNumberOfInstances
+3/11/2020 9:38:37 PM :   GENERAL    : GetOtherInstances
+3/11/2020 9:39:53 PM :   GENERAL    : RemoveInstance
+3/11/2020 9:39:53 PM :   GENERAL    : GetOtherInstances
+3/11/2020 9:43:31 PM :   GENERAL    : Test Log
+3/11/2020 9:43:31 PM : --WARNING--  : Test Log Warning
+3/11/2020 9:43:31 PM : !  ERROR   ! : Test Log Error
+3/11/2020 9:43:31 PM : !!CRITICAL!! : Test Log Critical
+3/16/2020 10:30:47 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:30:55 AM :   GENERAL    : Update_Checklist
+3/16/2020 10:30:55 AM : !  ERROR   ! : Update Check - IOERROR: Could not find file 'C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2Tests\bin\Debug\Data\Jan_20_Manual_MRESNNB0001X_RIEMNB6228X.ckl'.
+3/16/2020 10:31:32 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:32:05 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:32:05 AM :   GENERAL    : Update_Checklist
+3/16/2020 10:32:05 AM : !  ERROR   ! : Update Check - IOERROR: Could not find file 'C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2Tests\bin\Debug\Data\Jan_20_Manual_RIEMNB6228X.ckl'.
+3/16/2020 10:32:49 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:34:07 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:34:15 AM : !  ERROR   ! : Error: File Doesn't Exist
+3/16/2020 10:36:26 AM :   GENERAL    : Copy_Checklist
+3/16/2020 10:36:32 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:36:32 AM : !  ERROR   ! : Error: File Doesn't Exist
+3/16/2020 10:40:36 AM :   GENERAL    : Copy_Checklist
+3/16/2020 10:40:41 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:40:49 AM : !  ERROR   ! : Error: File Doesn't Exist
+3/16/2020 10:42:05 AM :   GENERAL    : Copy_Checklist
+3/16/2020 10:42:05 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:42:05 AM :   GENERAL    : Update_Checklist
+3/16/2020 10:42:05 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:45:05 AM :   GENERAL    : Copy_Checklist
+3/16/2020 10:45:05 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:45:05 AM :   GENERAL    : Update_Checklist
+3/16/2020 10:45:05 AM : !  ERROR   ! : Update Check - IOERROR: Could not find file 'C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2Tests\bin\Debug\Data\Jan_20_Manual_RIEMNB6228X_RIEMNB6228X.ckl'.
+3/16/2020 10:45:13 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:47:07 AM :   GENERAL    : Copy_Checklist
+3/16/2020 10:47:07 AM :   GENERAL    : Load_Checklist
+3/16/2020 10:47:07 AM :   GENERAL    : Update_Checklist
+3/16/2020 10:47:08 AM :   GENERAL    : Load_Checklist
+3/18/2020 4:51:16 PM :   GENERAL    : ReadXccdfFile
+3/18/2020 4:51:16 PM :   GENERAL    : IsFileInUse
+3/18/2020 4:51:16 PM :   GENERAL    : GetFilenameFromZIP
+3/18/2020 4:51:16 PM :   GENERAL    : Load_Checklist
+3/18/2020 4:51:17 PM :   GENERAL    : Copy_Checklist
+3/18/2020 4:51:17 PM :   GENERAL    : Copy_Checklist
+3/18/2020 4:51:17 PM :   GENERAL    : Load_Checklist
+3/18/2020 4:51:17 PM :   GENERAL    : Update_Checklist
+3/18/2020 4:51:17 PM :   GENERAL    : Load_Checklist
+3/18/2020 4:51:17 PM :   GENERAL    : Create_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Already Exists.
+3/18/2020 4:51:17 PM :   GENERAL    : Copy_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/18/2020 4:51:17 PM :   GENERAL    : Time To Create Backup or Forced.
+3/18/2020 4:51:17 PM :   GENERAL    : Copy_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/18/2020 4:51:17 PM :   GENERAL    : Not Time To Backup.
+3/18/2020 4:51:17 PM :   GENERAL    : Copy_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/18/2020 4:51:17 PM :   GENERAL    : Time To Create Backup or Forced.
+3/18/2020 4:51:17 PM :   GENERAL    : Create_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Created.
+3/18/2020 4:51:17 PM :   GENERAL    : Copy_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/18/2020 4:51:17 PM :   GENERAL    : Time To Create Backup or Forced.
+3/18/2020 4:51:17 PM :   GENERAL    : Create_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/18/2020 4:51:17 PM :   GENERAL    : Backup DB File Exist, User Opted to Restore.
+3/18/2020 4:51:17 PM :   GENERAL    : Create_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Created.
+3/18/2020 4:51:17 PM :   GENERAL    : Restore_HeaderFunctions
+3/18/2020 4:51:17 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/18/2020 4:51:17 PM :   GENERAL    : Create_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Created.
+3/18/2020 4:51:17 PM :   GENERAL    : Load_DB_File()
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Exist.
+3/18/2020 4:51:17 PM :   GENERAL    : DB File Loaded Successfully.
+3/18/2020 4:51:17 PM :   GENERAL    : Validate_DB()
+3/18/2020 4:51:17 PM :   GENERAL    : Vuln_DB Count Equals 0
+3/18/2020 4:51:17 PM :   GENERAL    : Parse_Script
+3/18/2020 4:51:17 PM :   GENERAL    : Update_DB_File()
+3/18/2020 4:51:17 PM : !  ERROR   ! : ERROR:Object reference not set to an instance of an object.
+3/18/2020 4:51:23 PM :   GENERAL    : Restore_HeaderFunctions
+3/18/2020 4:51:23 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/18/2020 4:51:23 PM :   GENERAL    : Update_DB_File()
+3/18/2020 4:51:23 PM : !  ERROR   ! : ERROR:Object reference not set to an instance of an object.
+3/18/2020 4:51:24 PM :   GENERAL    : GetNumberOfInstances
+3/18/2020 4:51:24 PM :   GENERAL    : UpdateNumberOfInstances
+3/18/2020 4:51:24 PM :   GENERAL    : GetOtherInstances
+3/18/2020 4:51:24 PM :   GENERAL    : RemoveInstance
+3/18/2020 4:51:24 PM :   GENERAL    : GetOtherInstances
+3/18/2020 4:51:24 PM :   GENERAL    : UpdateNumberOfInstances
+3/18/2020 4:51:24 PM :   GENERAL    : Test Log
+3/18/2020 4:51:24 PM : --WARNING--  : Test Log Warning
+3/18/2020 4:51:24 PM : !  ERROR   ! : Test Log Error
+3/18/2020 4:51:24 PM : !!CRITICAL!! : Test Log Critical
+3/18/2020 4:51:24 PM :   GENERAL    : Parse_AutoComplete_Cmdlets
+3/18/2020 4:51:24 PM :   GENERAL    : Parse_Header_Functions
+3/18/2020 4:51:24 PM :   GENERAL    : Parse_Script
+3/18/2020 4:51:24 PM :   GENERAL    : Parse_Header_Functions
+3/18/2020 4:51:24 PM :   GENERAL    : RunRemoteScript
+3/18/2020 4:51:46 PM : !  ERROR   ! : PS-REMOTE-ERROR: Connecting to remote server riemnb5568x failed with the following error message : WinRM cannot complete the operation. Verify that the specified computer name is valid, that the computer is accessible over the network, and that a firewall exception for the WinRM service is enabled and allows access from this computer. By default, the WinRM firewall exception for public profiles limits access to remote computers within the same local subnet. For more information, see the about_Remote_Troubleshooting Help topic.
+3/18/2020 4:51:46 PM :   GENERAL    : Parse_Header_Functions
+3/18/2020 4:51:46 PM :   GENERAL    : Run
+3/18/2020 4:51:49 PM :   GENERAL    : TestConnection
+3/18/2020 4:52:35 PM :   GENERAL    : Create_DB_File()
+3/18/2020 4:52:35 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/18/2020 4:52:35 PM :   GENERAL    : DB File Created.
+3/18/2020 4:52:35 PM :   GENERAL    : Load_DB_File()
+3/18/2020 4:52:35 PM :   GENERAL    : DB File Exist.
+3/18/2020 4:52:35 PM :   GENERAL    : DB File Loaded Successfully.
+3/18/2020 4:52:35 PM :   GENERAL    : Validate_DB()
+3/18/2020 4:52:35 PM :   GENERAL    : Vuln_DB Count Equals 0
+3/18/2020 4:52:35 PM :   GENERAL    : Parse_Script
+3/18/2020 4:52:35 PM :   GENERAL    : Update_DB_File()
+3/18/2020 4:52:35 PM : !  ERROR   ! : ERROR:Object reference not set to an instance of an object.
+3/18/2020 4:54:17 PM :   GENERAL    : Create_DB_File()
+3/18/2020 4:54:17 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/18/2020 4:54:17 PM :   GENERAL    : DB File Created.
+3/18/2020 4:54:18 PM :   GENERAL    : Load_DB_File()
+3/18/2020 4:54:18 PM :   GENERAL    : DB File Exist.
+3/18/2020 4:54:18 PM :   GENERAL    : DB File Loaded Successfully.
+3/18/2020 4:54:18 PM :   GENERAL    : Validate_DB()
+3/18/2020 4:54:18 PM :   GENERAL    : Vuln_DB Count Equals 0
+3/18/2020 4:54:18 PM :   GENERAL    : Parse_Script
+3/18/2020 4:54:18 PM :   GENERAL    : Update_DB_File()
+3/18/2020 4:54:18 PM : !  ERROR   ! : ERROR:Object reference not set to an instance of an object.
+3/19/2020 8:32:46 AM :   GENERAL    : Create_DB_File()
+3/19/2020 8:32:46 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 8:32:46 AM :   GENERAL    : DB File Created.
+3/19/2020 8:32:46 AM :   GENERAL    : Load_DB_File()
+3/19/2020 8:32:46 AM :   GENERAL    : DB File Exist.
+3/19/2020 8:32:46 AM :   GENERAL    : DB File Loaded Successfully.
+3/19/2020 8:32:46 AM :   GENERAL    : Validate_DB()
+3/19/2020 8:32:46 AM :   GENERAL    : Vuln_DB Count Equals 0
+3/19/2020 8:32:46 AM :   GENERAL    : Parse_Script
+3/19/2020 8:32:46 AM :   GENERAL    : Update_DB_File()
+3/19/2020 8:32:46 AM : !  ERROR   ! : ERROR:Object reference not set to an instance of an object.
+3/19/2020 8:33:09 AM :   GENERAL    : Create_DB_File()
+3/19/2020 8:33:09 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 8:33:09 AM :   GENERAL    : DB File Created.
+3/19/2020 8:33:09 AM :   GENERAL    : Load_DB_File()
+3/19/2020 8:33:09 AM :   GENERAL    : DB File Exist.
+3/19/2020 8:33:09 AM :   GENERAL    : DB File Loaded Successfully.
+3/19/2020 8:33:09 AM :   GENERAL    : Validate_DB()
+3/19/2020 8:33:09 AM :   GENERAL    : Vuln_DB Count Equals 0
+3/19/2020 8:33:09 AM :   GENERAL    : Parse_Script
+3/19/2020 8:33:10 AM :   GENERAL    : Update_DB_File()
+3/19/2020 8:33:10 AM : !  ERROR   ! : ERROR:Object reference not set to an instance of an object.
+3/19/2020 8:34:03 AM :   GENERAL    : Create_DB_File()
+3/19/2020 8:34:03 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 8:34:03 AM :   GENERAL    : DB File Created.
+3/19/2020 8:34:18 AM :   GENERAL    : Load_DB_File()
+3/19/2020 8:34:24 AM :   GENERAL    : DB File Exist.
+3/19/2020 8:34:32 AM :   GENERAL    : DB File Loaded Successfully.
+3/19/2020 8:34:40 AM :   GENERAL    : Validate_DB()
+3/19/2020 8:34:44 AM :   GENERAL    : Vuln_DB Count Equals 0
+3/19/2020 8:34:58 AM :   GENERAL    : Parse_Script
+3/19/2020 8:35:37 AM :   GENERAL    : Update_DB_File()
+3/19/2020 8:36:59 AM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/19/2020 8:36:59 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 8:36:59 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 8:36:59 AM :   GENERAL    : Time To Create Backup or Forced.
+3/19/2020 8:36:59 AM :   GENERAL    : DB File Updated Successfully.
+3/19/2020 8:36:59 AM :   GENERAL    : Load_DB_File()
+3/19/2020 8:36:59 AM :   GENERAL    : DB File Exist.
+3/19/2020 8:36:59 AM :   GENERAL    : DB File Loaded Successfully.
+3/19/2020 8:36:59 AM :   GENERAL    : Validate_DB()
+3/19/2020 8:37:26 AM :   GENERAL    : Update_DB_File()
+3/19/2020 8:37:26 AM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/19/2020 8:37:26 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 8:37:26 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 8:37:26 AM :   GENERAL    : Not Time To Backup.
+3/19/2020 8:37:26 AM :   GENERAL    : DB File Updated Successfully.
+3/19/2020 9:18:47 AM :   GENERAL    : Create_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Created.
+3/19/2020 9:18:47 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 9:18:47 AM :   GENERAL    : Time To Create Backup or Forced.
+3/19/2020 9:18:47 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 9:18:47 AM :   GENERAL    : Not Time To Backup.
+3/19/2020 9:18:47 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 9:18:47 AM :   GENERAL    : Time To Create Backup or Forced.
+3/19/2020 9:18:47 AM :   GENERAL    : Create_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Created.
+3/19/2020 9:18:47 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 9:18:47 AM :   GENERAL    : Time To Create Backup or Forced.
+3/19/2020 9:18:47 AM :   GENERAL    : Create_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 9:18:47 AM :   GENERAL    : Backup DB File Exist, User Opted to Restore.
+3/19/2020 9:18:47 AM :   GENERAL    : Create_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Created.
+3/19/2020 9:18:47 AM :   GENERAL    : Restore_HeaderFunctions
+3/19/2020 9:18:47 AM :   GENERAL    : Last HeaderFunctions File Doesn't Exist.
+3/19/2020 9:18:47 AM :   GENERAL    : Parse_Header_Functions
+3/19/2020 9:18:47 AM :   GENERAL    : Save_HeaderFunctions()
+3/19/2020 9:18:47 AM :   GENERAL    : HeaderFunctions Saved Successfully.
+3/19/2020 9:18:47 AM :   GENERAL    : Create_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Created.
+3/19/2020 9:18:47 AM :   GENERAL    : Load_DB_File()
+3/19/2020 9:18:47 AM :   GENERAL    : DB File Exist.
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Loaded Successfully.
+3/19/2020 9:18:48 AM :   GENERAL    : Validate_DB()
+3/19/2020 9:18:48 AM :   GENERAL    : Vuln_DB Count Equals 0
+3/19/2020 9:18:48 AM :   GENERAL    : Parse_Script
+3/19/2020 9:18:48 AM :   GENERAL    : Update_DB_File()
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/19/2020 9:18:48 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 9:18:48 AM :   GENERAL    : Time To Create Backup or Forced.
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Updated Successfully.
+3/19/2020 9:18:48 AM :   GENERAL    : Load_DB_File()
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Exist.
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Loaded Successfully.
+3/19/2020 9:18:48 AM :   GENERAL    : Validate_DB()
+3/19/2020 9:18:48 AM :   GENERAL    : Restore_HeaderFunctions
+3/19/2020 9:18:48 AM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/19/2020 9:18:48 AM :   GENERAL    : Update_DB_File()
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/19/2020 9:18:48 AM :   GENERAL    : Copy_DB_File()
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 9:18:48 AM :   GENERAL    : Not Time To Backup.
+3/19/2020 9:18:48 AM :   GENERAL    : DB File Updated Successfully.
+3/19/2020 9:19:41 AM :   GENERAL    : Load_Checklist
+3/19/2020 9:19:41 AM :   GENERAL    : Copy_Checklist
+3/19/2020 9:19:41 AM :   GENERAL    : Copy_Checklist
+3/19/2020 9:19:41 AM :   GENERAL    : Load_Checklist
+3/19/2020 9:19:41 AM :   GENERAL    : Update_Checklist
+3/19/2020 9:19:41 AM :   GENERAL    : Load_Checklist
+3/19/2020 9:19:48 AM :   GENERAL    : ReadXccdfFile
+3/19/2020 9:19:48 AM :   GENERAL    : IsFileInUse
+3/19/2020 9:19:48 AM :   GENERAL    : GetFilenameFromZIP
+3/19/2020 12:58:30 PM :   GENERAL    : MainWindow()
+3/19/2020 12:58:30 PM :   GENERAL    : InitializeDatastore
+3/19/2020 12:58:30 PM :   GENERAL    : Load_DB_File()
+3/19/2020 12:58:30 PM : --WARNING--  : DB File Doesn't Exist, attempting to create.
+3/19/2020 12:58:30 PM :   GENERAL    : Copy_DB_File()
+3/19/2020 12:58:30 PM :   GENERAL    : Create_DB_File()
+3/19/2020 12:58:30 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+3/19/2020 12:58:30 PM :   GENERAL    : DB File Created.
+3/19/2020 12:58:30 PM :   GENERAL    : Copying DB File.
+3/19/2020 12:58:30 PM :   GENERAL    : DB File Load Failure.
+3/19/2020 12:58:30 PM :   GENERAL    : Validate_DB()
+3/19/2020 12:58:30 PM :   GENERAL    : Vuln_DB Count Equals 0
+3/19/2020 12:58:30 PM :   GENERAL    : Parse_Script
+3/19/2020 12:58:30 PM :   GENERAL    : Update_DB_File()
+3/19/2020 12:58:30 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+3/19/2020 12:58:30 PM :   GENERAL    : Copy_DB_File()
+3/19/2020 12:58:30 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+3/19/2020 12:58:30 PM :   GENERAL    : Not Time To Backup.
+3/19/2020 12:58:30 PM :   GENERAL    : DB File Updated Successfully.
+3/19/2020 12:58:30 PM :   GENERAL    : Restore_HeaderFunctions
+3/19/2020 12:58:30 PM :   GENERAL    : Last HeaderFunctions File Doesn't Exist.
+3/19/2020 12:58:30 PM :   GENERAL    : Parse_Header_Functions
+3/19/2020 12:58:30 PM :   GENERAL    : Save_HeaderFunctions()
+3/19/2020 12:58:30 PM :   GENERAL    : HeaderFunctions Saved Successfully.
+3/19/2020 12:58:30 PM :   GENERAL    : Restore_Checklist()
+3/19/2020 12:58:30 PM :   GENERAL    : Last Checklist File Doesn't Exist.
+3/19/2020 12:58:30 PM :   GENERAL    : Save_Checklist()
+3/19/2020 12:58:30 PM :   GENERAL    : Checklist Saved Successfully.
+3/19/2020 12:58:30 PM :   GENERAL    : Restore_Benchmark()
+3/19/2020 12:58:31 PM :   GENERAL    : Last Benchmark File Doesn't Exist.
+3/19/2020 12:58:31 PM :   GENERAL    : Save_Benchmark()
+3/19/2020 12:58:31 PM :   GENERAL    : Benchmark Saved Successfully.
+3/19/2020 12:58:31 PM :   GENERAL    : Merge()
+3/19/2020 12:58:31 PM :   GENERAL    : Parse_AutoComplete_Cmdlets
+3/19/2020 1:05:07 PM :   GENERAL    : MainWindow()
+3/19/2020 1:05:07 PM :   GENERAL    : InitializeDatastore
+3/19/2020 1:05:07 PM :   GENERAL    : Load_DB_File()
+3/19/2020 1:05:07 PM :   GENERAL    : DB File Exist.
+3/19/2020 1:05:07 PM :   GENERAL    : DB File Loaded Successfully.
+3/19/2020 1:05:07 PM :   GENERAL    : Validate_DB()
+3/19/2020 1:05:07 PM :   GENERAL    : Restore_HeaderFunctions
+3/19/2020 1:05:07 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+3/19/2020 1:05:07 PM :   GENERAL    : Restore_Checklist()
+3/19/2020 1:05:07 PM :   GENERAL    : Checklist Restored Successfully.
+3/19/2020 1:05:07 PM :   GENERAL    : Restore_Benchmark()
+3/19/2020 1:05:07 PM :   GENERAL    : Benchmark Restored Successfully.
+3/19/2020 1:05:07 PM :   GENERAL    : Merge()
+3/19/2020 1:05:07 PM :   GENERAL    : Parse_AutoComplete_Cmdlets
+5/4/2020 2:46:06 PM :   GENERAL    : Load_DB_File()
+5/4/2020 2:46:06 PM :   GENERAL    : DB File Exist.
+5/4/2020 2:46:06 PM :   GENERAL    : DB File Loaded Successfully.
+5/4/2020 2:46:06 PM :   GENERAL    : Validate_DB()
+5/4/2020 2:46:06 PM :   GENERAL    : Update_DB_File()
+5/4/2020 2:46:06 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+5/4/2020 2:46:06 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:46:06 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:46:06 PM :   GENERAL    : Time To Create Backup or Forced.
+5/4/2020 2:46:06 PM :   GENERAL    : DB File Updated Successfully.
+5/4/2020 2:46:06 PM :   GENERAL    : Merge()
+5/4/2020 2:48:09 PM :   GENERAL    : ReadXccdfFile
+5/4/2020 2:48:09 PM :   GENERAL    : IsFileInUse
+5/4/2020 2:48:09 PM :   GENERAL    : GetFilenameFromZIP
+5/4/2020 2:48:09 PM :   GENERAL    : Load_Checklist
+5/4/2020 2:48:10 PM :   GENERAL    : Copy_Checklist
+5/4/2020 2:48:15 PM :   GENERAL    : Copy_Checklist
+5/4/2020 2:48:16 PM :   GENERAL    : Load_Checklist
+5/4/2020 2:48:16 PM :   GENERAL    : Update_Checklist()
+5/4/2020 2:48:16 PM :   GENERAL    : Update Checklist - Filename NOT Exists
+5/4/2020 2:48:16 PM : !  ERROR   ! : Update Check - IOERROR: Could not find file 'C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2Tests\bin\Debug\Data\Jan_20_Manual.ckl_RIEMNB6228X'.
+5/4/2020 2:48:17 PM :   GENERAL    : Load_Checklist
+5/4/2020 2:48:18 PM :   GENERAL    : MainWindow()
+5/4/2020 2:48:18 PM :   GENERAL    : InitializeDatastore
+5/4/2020 2:48:18 PM :   GENERAL    : Load_DB_File()
+5/4/2020 2:48:18 PM :   GENERAL    : DB File Exist.
+5/4/2020 2:48:18 PM :   GENERAL    : DB File Loaded Successfully.
+5/4/2020 2:48:18 PM :   GENERAL    : Validate_DB()
+5/4/2020 2:48:18 PM :   GENERAL    : Restore_HeaderFunctions
+5/4/2020 2:48:18 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+5/4/2020 2:48:18 PM :   GENERAL    : Restore_Checklist()
+5/4/2020 2:48:18 PM :   GENERAL    : Checklist Restored Successfully.
+5/4/2020 2:48:18 PM :   GENERAL    : Restore_Benchmark()
+5/4/2020 2:48:18 PM :   GENERAL    : Benchmark Restored Successfully.
+5/4/2020 2:48:18 PM :   GENERAL    : Merge()
+5/4/2020 2:48:21 PM :   GENERAL    : Parse_AutoComplete_Cmdlets
+5/4/2020 2:48:24 PM :   GENERAL    : Restore_Computers()
+5/4/2020 2:48:24 PM :   GENERAL    : Last Computers File Doesn't Exist.
+5/4/2020 2:48:24 PM :   GENERAL    : Create_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Already Exists.
+5/4/2020 2:48:24 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:48:24 PM :   GENERAL    : Time To Create Backup or Forced.
+5/4/2020 2:48:24 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:48:24 PM :   GENERAL    : Not Time To Backup.
+5/4/2020 2:48:24 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:48:24 PM :   GENERAL    : Time To Create Backup or Forced.
+5/4/2020 2:48:24 PM :   GENERAL    : Create_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Created.
+5/4/2020 2:48:24 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:48:24 PM :   GENERAL    : Time To Create Backup or Forced.
+5/4/2020 2:48:24 PM :   GENERAL    : Create_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+5/4/2020 2:48:24 PM :   GENERAL    : Backup DB File Exist, User Opted to Restore.
+5/4/2020 2:48:24 PM :   GENERAL    : Create_DB_File()
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+5/4/2020 2:48:24 PM :   GENERAL    : DB File Created.
+5/4/2020 2:48:24 PM :   GENERAL    : Restore_HeaderFunctions
+5/4/2020 2:48:25 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : Create_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Doesn't Exist, Creating Now.
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Created.
+5/4/2020 2:48:25 PM :   GENERAL    : Load_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist.
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Loaded Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : Validate_DB()
+5/4/2020 2:48:25 PM :   GENERAL    : Vuln_DB Count Equals 0
+5/4/2020 2:48:25 PM :   GENERAL    : Parse_Script
+5/4/2020 2:48:25 PM :   GENERAL    : Update_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+5/4/2020 2:48:25 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:48:25 PM :   GENERAL    : Time To Create Backup or Forced.
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Updated Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : Load_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist.
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Loaded Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : Validate_DB()
+5/4/2020 2:48:25 PM :   GENERAL    : Restore_HeaderFunctions
+5/4/2020 2:48:25 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : Update_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+5/4/2020 2:48:25 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:48:25 PM :   GENERAL    : Not Time To Backup.
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Updated Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : GetNumberOfInstances
+5/4/2020 2:48:25 PM :   GENERAL    : UpdateNumberOfInstances
+5/4/2020 2:48:25 PM :   GENERAL    : GetOtherInstances
+5/4/2020 2:48:25 PM :   GENERAL    : RemoveInstance
+5/4/2020 2:48:25 PM :   GENERAL    : GetOtherInstances
+5/4/2020 2:48:25 PM :   GENERAL    : UpdateNumberOfInstances
+5/4/2020 2:48:25 PM :   GENERAL    : Test Log
+5/4/2020 2:48:25 PM : --WARNING--  : Test Log Warning
+5/4/2020 2:48:25 PM : !  ERROR   ! : Test Log Error
+5/4/2020 2:48:25 PM : !!CRITICAL!! : Test Log Critical
+5/4/2020 2:48:25 PM :   GENERAL    : Load_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist.
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Loaded Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : Validate_DB()
+5/4/2020 2:48:25 PM :   GENERAL    : Vuln_DB Count Equals 0
+5/4/2020 2:48:25 PM :   GENERAL    : Parse_Script
+5/4/2020 2:48:25 PM :   GENERAL    : Update_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist, Writing Vuln_DB.
+5/4/2020 2:48:25 PM :   GENERAL    : Copy_DB_File()
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Exist, Checking if time to backup.
+5/4/2020 2:48:25 PM :   GENERAL    : Not Time To Backup.
+5/4/2020 2:48:25 PM :   GENERAL    : DB File Updated Successfully.
+5/4/2020 2:48:25 PM :   GENERAL    : Merge()
+5/4/2020 2:48:25 PM :   GENERAL    : Parse_AutoComplete_Cmdlets
+5/4/2020 2:48:25 PM :   GENERAL    : Parse_Header_Functions
+5/4/2020 2:48:25 PM :   GENERAL    : Parse_Script
+5/4/2020 2:48:25 PM :   GENERAL    : Parse_Header_Functions
+5/4/2020 2:48:27 PM : !  ERROR   ! : PS-REMOTE-ERROR: Connecting to remote server riemnb5568x failed with the following error message : Access is denied. For more information, see the about_Remote_Troubleshooting Help topic.
+5/4/2020 2:48:27 PM :   GENERAL    : Parse_Header_Functions
+5/4/2020 2:48:30 PM :   GENERAL    : MainWindow()
+5/4/2020 2:48:30 PM :   GENERAL    : InitializeDatastore
+5/4/2020 2:48:30 PM :   GENERAL    : Load_DB_File()
+5/4/2020 2:48:30 PM :   GENERAL    : DB File Exist.
+5/4/2020 2:48:30 PM :   GENERAL    : DB File Loaded Successfully.
+5/4/2020 2:48:30 PM :   GENERAL    : Validate_DB()
+5/4/2020 2:48:30 PM :   GENERAL    : Restore_HeaderFunctions
+5/4/2020 2:48:30 PM :   GENERAL    : HeaderFunctions Restored Successfully.
+5/4/2020 2:48:30 PM :   GENERAL    : Restore_Checklist()
+5/4/2020 2:48:30 PM :   GENERAL    : Checklist Restored Successfully.
+5/4/2020 2:48:30 PM :   GENERAL    : Restore_Benchmark()
+5/4/2020 2:48:30 PM :   GENERAL    : Benchmark Restored Successfully.
+5/4/2020 2:48:30 PM :   GENERAL    : Merge()
+5/4/2020 2:48:33 PM :   GENERAL    : Parse_AutoComplete_Cmdlets
+5/4/2020 2:49:43 PM :   GENERAL    : GetNumberOfInstances
+5/4/2020 2:56:42 PM :   GENERAL    : Parse_Script
+5/4/2020 2:56:42 PM :   GENERAL    : Parse_Script
+5/4/2020 2:56:42 PM : !  ERROR   ! : Exception Error: An item with the same key has already been added.
+5/4/2020 2:57:51 PM :   GENERAL    : Parse_Script
+5/4/2020 2:57:51 PM :   GENERAL    : Parse_Script
+5/4/2020 2:57:51 PM : !  ERROR   ! : Exception Error: An item with the same key has already been added.
+5/4/2020 2:58:47 PM :   GENERAL    : Parse_Script
+5/4/2020 3:06:59 PM :   GENERAL    : Parse_Script
+5/4/2020 3:07:08 PM :   GENERAL    : Parse_Script
+5/4/2020 3:11:02 PM : !  ERROR   ! : Exception Error: An item with the same key has already been added.
+5/4/2020 3:19:57 PM :   GENERAL    : Parse_Script
+5/4/2020 3:19:57 PM : !  ERROR   ! : Exception Error: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+5/4/2020 3:20:31 PM :   GENERAL    : Parse_Script
+5/4/2020 3:20:32 PM : !  ERROR   ! : Exception Error: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+5/4/2020 3:21:13 PM :   GENERAL    : Parse_Script
+5/4/2020 3:21:13 PM : !  ERROR   ! : Exception Error: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+5/4/2020 3:22:28 PM :   GENERAL    : Parse_Script
+5/4/2020 3:28:55 PM :   GENERAL    : Parse_Script
+5/4/2020 3:29:07 PM :   GENERAL    : Parse_Script
+5/4/2020 3:31:27 PM :   GENERAL    : Parse_Script
+5/4/2020 3:31:29 PM :   GENERAL    : Parse_Script
+5/4/2020 3:47:30 PM :   GENERAL    : Parse_Script
+5/4/2020 3:47:30 PM :   GENERAL    : Parse_Script

@@ -1,0 +1,62 @@
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\bin\Release\STIG_Manager_2.exe.config
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\bin\Release\STIG_Manager_2.exe.manifest
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\bin\Release\STIG_Manager_2.application
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\bin\Release\STIG_Manager_2.exe
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\bin\Release\STIG_Manager_2.pdb
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\bin\Release\Newtonsoft.Json.dll
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\bin\Release\System.Management.Automation.dll
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.csprojAssemblyReference.cache
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\MainWindow.g.cs
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\FunctionsWindow.g.cs
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Get_Input.g.cs
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\App.g.cs
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2_MarkupCompile.cache
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2_MarkupCompile.lref
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\MainWindow.baml
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\FunctionsWindow.baml
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Get_Input.baml
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.g.resources
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.Properties.Resources.resources
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.csproj.GenerateResource.cache
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.TrustInfo.xml
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.exe.manifest
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.application
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.csproj.CopyComplete
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.exe
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.pdb
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\STIG_Manager_2.exe.config
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\STIG_Manager_2.exe.manifest
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\STIG_Manager_2.application
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\STIG_Manager_2.exe
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\STIG_Manager_2.pdb
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\Docs\STIG Manager 2 Reference Documentation.docx
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\RunRemoteWindow.g.cs
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\RunRemoteWindow.baml
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Message.g.cs
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Message.baml
+C:\Users\eric.hansen\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.csproj.CoreCompileInputs.cache
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\STIG_Manager_2.exe.CodeAnalysisLog.xml
+S:\Research Support\S-6 Information Management\Automation Tools\STIG Manager v2.0\STIG_Manager_2.exe.lastcodeanalysissucceeded
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.csprojAssemblyReference.cache
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\MainWindow.g.cs
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\FunctionsWindow.g.cs
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Get_Input.g.cs
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Message.g.cs
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\RunRemoteWindow.g.cs
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\App.g.cs
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2_MarkupCompile.cache
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2_MarkupCompile.lref
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\MainWindow.baml
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\FunctionsWindow.baml
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Get_Input.baml
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\Message.baml
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\View\RunRemoteWindow.baml
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.g.resources
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.Properties.Resources.resources
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.csproj.GenerateResource.cache
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.csproj.CoreCompileInputs.cache
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.TrustInfo.xml
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.exe
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.pdb
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.exe.manifest
+C:\Users\eric.hansen.AMED\Desktop\STIG_Manager_2\STIG_Manager_2\obj\Release\STIG_Manager_2.application
